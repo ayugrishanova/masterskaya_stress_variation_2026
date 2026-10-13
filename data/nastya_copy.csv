@@ -1688,13 +1688,13 @@ index,corpus,sentence,tier_name,token,source,time_start,time_end,start,end
 2443665,russian_l2_chuvash,"Это, взамен вот как была давность за шитье давали ей платья старые, старые платья от своих дочерей, наверное, пальто, пальто, шапки",aij1955,была,aij1955_20170808_AlevIvan_MF_Polish_grandma_rus.eaf,259.796,276.401,21,24
 2447018,russian_l2_chuvash,вчера была же у вас,epx1961,была,epx1961_20170806_ElizPetr_KI_RusText_01.eaf,85.068,86.031,7,10
 2447433,russian_l2_chuvash,"и церковь была, и школа была",epx1961,была,epx1961_20170806_ElizPetr_KI_RusText_01.eaf,178.88,180.587,25,28
-2451249,russian_l2_chuvash,было,gnb1956,было,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,145.595,145.99,1,4
-2451266,russian_l2_chuvash,овцеферма была там,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,148.58,149.99,11,14
-2451302,russian_l2_chuvash,птицеферма там была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,152.795,154.205,16,19
-2451325,russian_l2_chuvash,лошади были,gnb1956,были,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,160.215,161.305,8,11
-2451594,russian_l2_chuvash,я в Саратове была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,234.17,235.52,14,17
-2451734,russian_l2_chuvash,у родни свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,303.92,305.82,17,20
-2451800,russian_l2_chuvash,как раз свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,327.85,329.33,17,20
+2451249,russian_l2_chuvash,было,gnb1956,было,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,145.595,145.99,1,4
+2451266,russian_l2_chuvash,овцеферма была там,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,148.58,149.99,11,14
+2451302,russian_l2_chuvash,птицеферма там была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,152.795,154.205,16,19
+2451325,russian_l2_chuvash,лошади были,gnb1956,были,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,160.215,161.305,8,11
+2451594,russian_l2_chuvash,я в Саратове была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,234.17,235.52,14,17
+2451734,russian_l2_chuvash,у родни свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,303.92,305.82,17,20
+2451800,russian_l2_chuvash,как раз свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,327.85,329.33,17,20
 2456995,russian_l2_chuvash,было бы так,ops1957,было,ops1957_20170809_OlgPetr_KI_RusText_o_zhizni.eaf,597.037,597.954,1,4
 2457586,russian_l2_chuvash,ну было пленку,ops1957,было,ops1957_20170809_OlgPetr_KI_RusText_o_zhizni.eaf,935.054,936.277,4,7
 2459493,russian_l2_chuvash,в каком году было?,others,было,jmv1947_20170806_JurMef+zhena_KI_VB_RusText_01.eaf,47.585,48.885,14,17
@@ -1704,12 +1704,12 @@ index,corpus,sentence,tier_name,token,source,time_start,time_end,start,end
 2472802,russian_l2_chuvash,"а мама, мать моя, этот, тоже здесь вот во время войны, они молодые очень были, очень сильно, очень работали",zaj1957,были,zaj1957_20170806_ZinaidaAlekseevnaJakovleva_KI_RusText_01.eaf,685.59,691.84,74,77
 2476588,russian_l2_chuvash,"на десять дней путевка была, ездили",zns1934,была,zns1934_20170810_ZojNik_KI_Puteshestvija_sluchaj_v_gorah_rus.eaf,44.985,47.295,24,27
 2733380,russian_l2_karel,"Эх, это в Карелии такие были.",AI1938,были,20210706a_Nurmolitsi_AI1938.eaf,801.56,804.12,25,28
-2745995,russian_l2_karel,Такое тоже было.,AM1955,было,20210626a_Petrozavodsk_AM1955.eaf,1068.347,1069.167,12,15
-2747412,russian_l2_karel,"Получалось, что в будние дни я была здесь, в выходные дни - в Пряже.",AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,1687.725,1691.968,32,35
-2748100,russian_l2_karel,"Ну просто когда связь был=, по учебе была.",AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,1934.53,1936.95,38,41
-2749173,russian_l2_karel,"И плюс ко всему, ведь как, не было ж",AM1955,было,20210626a_Petrozavodsk_AM1955.eaf,2400.08,2401.788,31,34
-2750189,russian_l2_karel,"Вот я должна была провести как раз, вот когда",AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,2775.1,2777.498,14,17
-2750223,russian_l2_karel,а другая выставка должна была быть,AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,2783.43,2784.845,26,29
+2745995,russian_l2_karel,Такое тоже было.,AM1955,было,20210626a_Petrozavodsk_АM1955.eaf,1068.347,1069.167,12,15
+2747412,russian_l2_karel,"Получалось, что в будние дни я была здесь, в выходные дни - в Пряже.",AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,1687.725,1691.968,32,35
+2748100,russian_l2_karel,"Ну просто когда связь был=, по учебе была.",AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,1934.53,1936.95,38,41
+2749173,russian_l2_karel,"И плюс ко всему, ведь как, не было ж",AM1955,было,20210626a_Petrozavodsk_АM1955.eaf,2400.08,2401.788,31,34
+2750189,russian_l2_karel,"Вот я должна была провести как раз, вот когда",AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,2775.1,2777.498,14,17
+2750223,russian_l2_karel,а другая выставка должна была быть,AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,2783.43,2784.845,26,29
 2797518,russian_l2_karel,"А тут надо варить, да отче= отчетность вести, продукты получать, это все, здесь маленькая грамота нужна была.",GFV1934,была,20210702a_Simon-Navolok_GVK1965.eaf,1286.439,1293.64,105,108
 2798327,russian_l2_karel,А ведь этого не было даже в помине.,GFV1934,было,20210702a_Simon-Navolok_GVK1965.eaf,1622.574,1625.585,17,20
 2819555,russian_l2_karel,"Вдруг вот такая жаркая погода вот летом была, и он загорелся и сгорел дотла, мы остались без моста.",GVK1965,была,20210702a_Simon-Navolok_GVK1965.eaf,505.3,512,41,44

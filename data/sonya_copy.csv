@@ -5245,13 +5245,13 @@ index,corpus,sentence,tier_name,token,source,time_start,time_end,start,end
 2450762,russian_l2_chuvash,чистить хорошо было,gnb1956,было,gnb1956_170811_GalNik_MF_TEXT_pro_orexi_i_raznoe.eaf,15.916,17.326,16,19
 2451013,russian_l2_chuvash,это двойня были,gnb1956,были,gnb1956_170811_GalNik_MF_TEXT_pro_orexi_i_raznoe.eaf,78.696,80.05,12,15
 2451032,russian_l2_chuvash,это еще прохладно было весной,gnb1956,было,gnb1956_170811_GalNik_MF_TEXT_pro_orexi_i_raznoe.eaf,82.423,84.371,19,22
-2451249,russian_l2_chuvash,было,gnb1956,было,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,145.595,145.99,1,4
-2451266,russian_l2_chuvash,овцеферма была там,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,148.58,149.99,11,14
-2451302,russian_l2_chuvash,птицеферма там была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,152.795,154.205,16,19
-2451325,russian_l2_chuvash,лошади были,gnb1956,были,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,160.215,161.305,8,11
-2451594,russian_l2_chuvash,я в Саратове была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,234.17,235.52,14,17
-2451734,russian_l2_chuvash,у родни свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,303.92,305.82,17,20
-2451800,russian_l2_chuvash,как раз свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel'_i_pro_semju.eaf,327.85,329.33,17,20
+2451249,russian_l2_chuvash,было,gnb1956,было,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,145.595,145.99,1,4
+2451266,russian_l2_chuvash,овцеферма была там,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,148.58,149.99,11,14
+2451302,russian_l2_chuvash,птицеферма там была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,152.795,154.205,16,19
+2451325,russian_l2_chuvash,лошади были,gnb1956,были,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,160.215,161.305,8,11
+2451594,russian_l2_chuvash,я в Саратове была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,234.17,235.52,14,17
+2451734,russian_l2_chuvash,у родни свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,303.92,305.82,17,20
+2451800,russian_l2_chuvash,как раз свадьба была,gnb1956,была,gnb1956_170811_GalNik_MF_TEXT_pro_xmel_i_pro_semju.eaf,327.85,329.33,17,20
 2451817,russian_l2_chuvash,много было,gnb1956,было,"gnb1956_170811_GalNik_MF_TEXT_pro_padenie,_sobaku_i_raznoe.eaf",334,334.642,7,10
 2451880,russian_l2_chuvash,кто была -то?,gnb1956,была,"gnb1956_170811_GalNik_MF_TEXT_pro_padenie,_sobaku_i_raznoe.eaf",360.994,362.068,5,8
 2451915,russian_l2_chuvash,Таня что ли одна была?,gnb1956,была,"gnb1956_170811_GalNik_MF_TEXT_pro_padenie,_sobaku_i_raznoe.eaf",377.069,378.708,18,21
@@ -5553,12 +5553,12 @@ index,corpus,sentence,tier_name,token,source,time_start,time_end,start,end
 2737220,russian_l2_karel,"не было, всё.",AI1938,было,20210706a_Nurmolitsi_AI1938.eaf,2706.49,2707.41,4,7
 2737283,russian_l2_karel,"Были, были туристы, да и тут",AI1938,были,20210706a_Nurmolitsi_AI1938.eaf,2743.11,2744.76,7,10
 2739518,russian_l2_karel,"только русский язык письмо и устно было, а так",AIG1938,было,20210702a_Gavrilovka_AIG1938.eaf,297.9,301,36,39
-2745995,russian_l2_karel,Такое тоже было.,AM1955,было,20210626a_Petrozavodsk_AM1955.eaf,1068.347,1069.167,12,15
-2747412,russian_l2_karel,"Получалось, что в будние дни я была здесь, в выходные дни - в Пряже.",AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,1687.725,1691.968,32,35
-2748100,russian_l2_karel,"Ну просто когда связь был=, по учебе была.",AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,1934.53,1936.95,38,41
-2749173,russian_l2_karel,"И плюс ко всему, ведь как, не было ж",AM1955,было,20210626a_Petrozavodsk_AM1955.eaf,2400.08,2401.788,31,34
-2750189,russian_l2_karel,"Вот я должна была провести как раз, вот когда",AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,2775.1,2777.498,14,17
-2750223,russian_l2_karel,а другая выставка должна была быть,AM1955,была,20210626a_Petrozavodsk_AM1955.eaf,2783.43,2784.845,26,29
+2745995,russian_l2_karel,Такое тоже было.,AM1955,было,20210626a_Petrozavodsk_АM1955.eaf,1068.347,1069.167,12,15
+2747412,russian_l2_karel,"Получалось, что в будние дни я была здесь, в выходные дни - в Пряже.",AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,1687.725,1691.968,32,35
+2748100,russian_l2_karel,"Ну просто когда связь был=, по учебе была.",AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,1934.53,1936.95,38,41
+2749173,russian_l2_karel,"И плюс ко всему, ведь как, не было ж",AM1955,было,20210626a_Petrozavodsk_АM1955.eaf,2400.08,2401.788,31,34
+2750189,russian_l2_karel,"Вот я должна была провести как раз, вот когда",AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,2775.1,2777.498,14,17
+2750223,russian_l2_karel,а другая выставка должна была быть,AM1955,была,20210626a_Petrozavodsk_АM1955.eaf,2783.43,2784.845,26,29
 2754664,russian_l2_karel,"Ругоз= там ругозерские были карелы, ну а что=, северные карелы очень близко с финнами, ну вот финский",AS1977,были,20190704a_Petrozavodsk_AS1977.eaf,1277.22,1283.366,24,27
 2754708,russian_l2_karel,"Там было вот такая, в школе образование было вот исключительно на финском",AS1977,было,20190704a_Petrozavodsk_AS1977.eaf,1309.39,1312.657,5,8
 2754731,russian_l2_karel,"Учили только на финском, там был час в неделю, по- моему, что -то было русского чтения или буквы изучали",AS1977,было,20190704a_Petrozavodsk_AS1977.eaf,1312.657,1318.035,67,70
